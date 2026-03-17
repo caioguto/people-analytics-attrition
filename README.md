@@ -11,7 +11,7 @@ Analisar os fatores que influenciam o turnover organizacional e construir um mod
 
 ## 🛠️ Tecnologias e Ferramentas
 **Linguagem:** Python
-]**Manipulação e Análise:** Pandas e NumPy
+**Manipulação e Análise:** Pandas e NumPy
 **Visualização:** Seaborn e Matplotlib
 **Machine Learning:** Scikit-Learn e XGBoost
 **Tratamento de Dados:** SMOTE (Synthetic Minority Over-sampling Technique) para balanceamento de classes
